@@ -58,5 +58,8 @@ docs/_build/
 # PyBuilder
 target/
 
+ve_py/
+ve_py3/
+
 #Ipython Notebook
 .ipynb_checkpoints
